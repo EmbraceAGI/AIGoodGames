@@ -22,7 +22,7 @@
 
 ### 📥 安装与运行
 
-* 继续世界演化：可以点击[链接](https://chat.openai.com/share/25c02186-e518-4ac0-9072-1281b2f47d84) 继续宇宙演化
+* 继续世界演化：可以点击[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d) 继续宇宙演化
 * 演化你自己的世界，请打开GPT-4 的 [Advanced Data Analysis（原 Code Interpreter）功能](https://chat.openai.com/?model=gpt-4-code-interpreter)，并将[world_simulator.txt](world_simulator.txt)中的所有内容复制粘贴进对话框中运行。
 
 
