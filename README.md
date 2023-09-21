@@ -69,7 +69,7 @@
 
 📂 项目
   
-  项目主页：[人生重来模拟器 LifeReloaded]([WorldSimulator/README.md](https://github.com/hamutama/LifeReloaded))
+  项目主页：[人生重来模拟器 LifeReloaded](https://github.com/hamutama/LifeReloaded)
 
 🌟 介绍
 
