@@ -63,9 +63,9 @@
    * 您认为需要添加的其他信息
 
 3. 加入方式:
-   * 方式 1 —— 自行编辑内容：GitHub 资深用户可以 Pull Request 或者 issue 的方式向本项目提交`项目内容` 收录
-   * 方式 2 —— 托管方式，如[🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md) 。将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏添加到项目。
-   * 方式 3 —— 收录方式，如[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded)。自建项目，将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏收录到项目。
+   * 方式 1 —— 托管方式，如[🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md) 。将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏添加到项目。
+   * 方式 2 —— 收录方式，如[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded)。自建项目，将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏收录到项目。
+   * （注：GitHub 老司机推荐通过 Pull Request 或者 issue 的方式直接向本项目提交`项目内容` 收录）
 
 4. 权益声明：
    * 游戏版权等相关权益完全归属于原作者，禁止未经原作者授权的商业行为和其他一切侵权行为。
