@@ -54,9 +54,7 @@
 
     > 🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [AIGG](https://github.com/EmbraceAGI/AIGoodGames) 为姊妹项目。
 
-2. 请以 Pull Request 或者 issue 的方式向本项目提交`项目内容`或者提交`项目`收录为社区项目
-
-3. 请提交收录时确保包含以下内容：
+2. 请提前准备以下内容：
    * Prompts (.txt 文件)
    * 游戏截图 (至少两张)
    * ChatGPT 对话分享链接（若所用模型（如 claude）不支持则无需）
@@ -64,7 +62,16 @@
    * 作者介绍 (作者名，个人主页等，方便感兴趣的朋友链接到您)
    * 您认为需要添加的其他信息
 
-姊妹项目将会同时收录到 [LangGPT 结构化提示词社区文档](http://feishu.langgpt.ai)
+3. 加入方式:
+   * 方式 1 —— 自行编辑内容：GitHub 资深用户可以 Pull Request 或者 issue 的方式向本项目提交`项目内容` 收录
+   * 方式 2 —— 托管方式，如[🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md) 。将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏添加到项目。
+   * 方式 3 —— 收录方式，如[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded)。自建项目，将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏收录到项目。
+
+4. 权益声明：
+   * 游戏版权等相关权益完全归属于原作者，禁止未经原作者授权的商业行为和其他一切侵权行为。
+   * EmbraceAGI 社区将为 AIGG 游戏将提供社区支持: 包括但不限于 AI 游戏交流，改进和共创，社区推广等
+
+项目将会同时收录到 [LangGPT 结构化提示词社区](http://feishu.langgpt.ai)
 
 💌 联系
 
