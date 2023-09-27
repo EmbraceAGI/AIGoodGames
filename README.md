@@ -34,7 +34,7 @@
 |名称|Stars|作者|简介|点击开玩|
 |---|---|---|---|---|
 |[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded) |![GitHub Repo stars](https://badgen.net/github/stars/hamutama/LifeReloaded)|[陈财猫🐱](https://okjk.co/RBfY7P)| 由 GPT4 的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。|[链接](https://chat.openai.com/share/25c02186-e518-4ac0-9072-1281b2f47d84)|
-|[🚀世界终局模拟-走到时间的尽头🚀](https://github.com/EmbraceAGI/Embrace-GPT-Games/WorldSimulator/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/Embrace-GPT-Games)|[云中江树](https://okjk.co/fgdwvY)|穿越时间长河，尽览世界变迁，见证世界终局，演化，演化，不断演化，直到世界尽头。|[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d)|
+|[🚀世界终局模拟-走到时间的尽头🚀](https://github.com/EmbraceAGI/AIGoodGames/WorldSimulator/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/Embrace-GPT-Games)|[云中江树](https://okjk.co/fgdwvY)|穿越时间长河，尽览世界变迁，见证世界终局，演化，演化，不断演化，直到世界尽头。|[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d)|
 
 ## 开源与合作
 🔗 本项目为  [EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
