@@ -94,10 +94,6 @@
 > “人生如梦，万事皆空；不过，'空'中便有万事万物。”  
 > 如果你曾对人生有过无数的“如果”和“要是”，**人生重来模拟器 LifeReloaded** 给你一个重开的机会，焕发人生第二春！
 
-<img src="https://raw.githubusercontent.com/hamutama/LifeReloaded/main/previews/childhood.png" alt="Childhood 1" width="500">
-<img src="https://raw.githubusercontent.com/hamutama/LifeReloaded/main/previews/mid_adulthood.png" alt="Mid Adulthood" width="500">
-
-
 ## [🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md)
 
 📂 项目
@@ -140,7 +136,7 @@
 
 这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。
 
-<img src="./RuleGhostTalk/imgs/greetings.png" alt="Greeting User" width="500">
+<img src="./RuleGhostTalk/imgs/greetings.jpg" alt="Greeting User" width="500">
 
 
 ---
