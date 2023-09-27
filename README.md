@@ -26,6 +26,7 @@
     - [🤝 合作](#-合作)
   - [🐱🐹人生重来模拟器 LifeReloaded🐹🐱](#人生重来模拟器-lifereloaded)
   - [🚀世界终局模拟-走到时间的尽头🚀](#世界终局模拟-走到时间的尽头)
+  - [🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](#-规则怪谈解密-𝐑𝑢𝑙𝑒-𝐺𝒉𝑜𝑠𝑡-𝑇𝑎𝑙𝑘-)
   - [🙏 致谢](#-致谢)
 
 
@@ -35,6 +36,9 @@
 |---|---|---|---|---|
 |[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded) |![GitHub Repo stars](https://badgen.net/github/stars/hamutama/LifeReloaded)|[陈财猫🐱](https://okjk.co/RBfY7P)| 由 GPT4 的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。|[链接](https://chat.openai.com/share/25c02186-e518-4ac0-9072-1281b2f47d84)|
 |[🚀世界终局模拟-走到时间的尽头🚀](https://github.com/EmbraceAGI/AIGoodGames/blob/main/WorldSimulator/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[云中江树](https://okjk.co/fgdwvY)|穿越时间长河，尽览世界变迁，见证世界终局，演化，演化，不断演化，直到世界尽头。|[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d)|
+|[🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](https://github.com/EmbraceAGI/AIGoodGames/blob/main/RuleGhostTalk/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[Stell_A🤡](https://okjk.co/rTlQqf)|这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。|[链接](https://chat.openai.com/share/1501610f-fce2-4339-ac2b-ceeb579d502f)|
+|[🚀世界终局模拟-走到时间的尽头🚀](https://github.com/EmbraceAGI/AIGoodGames/blob/main/WorldSimulator/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[云中江树](https://okjk.co/fgdwvY)|穿越时间长河，尽览世界变迁，见证世界终局，演化，演化，不断演化，直到世界尽头。|[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d)|
+
 
 ## 开源与合作
 🔗 本项目为  [EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
@@ -49,9 +53,17 @@
 
 1. 在您的提示词中添加下面内容：
 
-    > 🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
+    > 🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [AIGG](https://github.com/EmbraceAGI/AIGoodGames) 为姊妹项目。
 
-2. 请以 Pull Request 或者 issue 的方式向本项目提交`项目内容`或者提交`项目`收录为社区姊妹项目
+2. 请以 Pull Request 或者 issue 的方式向本项目提交`项目内容`或者提交`项目`收录为社区项目
+
+3. 请提交收录时确保包含以下内容：
+   * Prompts (.txt 文件)
+   * 游戏截图 (至少两张)
+   * ChatGPT 对话分享链接（若所用模型（如 claude）不支持则无需）
+   * 游戏介绍 (可参考本项目里各个游戏的介绍，提供 markdown 内容为佳，飞书文档也可)
+   * 作者介绍 (作者名，个人主页等，方便感兴趣的朋友链接到您)
+   * 您认为需要添加的其他信息
 
 姊妹项目将会同时收录到 [LangGPT 结构化提示词社区文档](http://feishu.langgpt.ai)
 
@@ -103,6 +115,27 @@
 <img src="./WorldSimulator/imgs/greetings.png" alt="Greeting User" width="500">
 
 <img src="./WorldSimulator/imgs/go_to_stars.png" alt="World stars" width="500">
+
+## 🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡
+
+📂 项目
+  
+  项目主页：[规则怪谈解密](RuleGhostTalk/README.md)
+
+🌟 介绍
+
+> 🌑 月黑风高，怪谈缠绕，
+> 
+> 👥 影子背后，何物低吼？
+> 
+> ❤️ 心跳加速，寻觅真相，
+> 
+> 🌫️ 迷雾之中，是梦还是魔？ 🌀
+
+这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。
+
+<img src="./RuleGhostTalk/imgs/greetings.png" alt="Greeting User" width="500">
+
 
 ---
 
