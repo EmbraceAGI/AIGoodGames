@@ -167,8 +167,7 @@
 
 你还可以去你任何想要去的时代，扮演你想扮演的历史人物，看你的决定是否能如你所愿，将人类带入完全不同的历史支流，历史在你的手中
 
-<img src="https://raw.githubusercontent.com/bingler1978/civilization/main/screencapture-chat-openai-1.png
-" alt="Greeting User" width="500">
+<img src="https://raw.githubusercontent.com/bingler1978/civilization/main/screencapture-chat-openai-1.png" alt="Greeting User" width="500">
 
 ## “仙术对决”大会
 📂 项目
