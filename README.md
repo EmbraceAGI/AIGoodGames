@@ -121,11 +121,11 @@
 
 <img src="./WorldSimulator/imgs/go_to_stars.png" alt="World stars" width="500">
 
-## 🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡
+## 🤡👿 规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿 🤡
 
 📂 项目
   
-  项目主页：[规则怪谈解密](RuleGhostTalk/README.md)
+  项目主页：[🤡👿 规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿 🤡](https://github.com/EmbraceAGI/Rule-Ghost-Talk)
 
 🌟 介绍
 
@@ -140,6 +140,7 @@
 这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。
 
 <img src="./RuleGhostTalk/imgs/greetings.jpg" alt="Greeting User" width="500">
+
 
 ## 文明游戏
 
