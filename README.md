@@ -141,13 +141,6 @@
 
 <img src="./RuleGhostTalk/imgs/greetings.jpg" alt="Greeting User" width="500">
 
-![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/a427561e-5216-47a9-a5a0-6d4c6bf77a1f)
-
-> 玩家恶搞,hhh
-
-![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/c6a9c22c-1427-4396-959c-0c44d31a8aad)
-
-![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/81f6877f-350a-45da-81e1-46782fcddeae)
 
 ## 文明游戏
 
