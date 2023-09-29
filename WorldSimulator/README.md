@@ -77,3 +77,4 @@
 ### 🙏 致谢
 * [LangGPT 提示词社区](http://feishu.langgpt.ai) LangGPT 提示词社区的朋友们的交流和实践给本项目带来许多有益的思考
 * [🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded) 一个有趣的灵魂 [陈财猫🐱](https://okjk.co/RBfY7P) 的优质作品，其直接促成了本项目，同时本项目的项目说明直接借用了 LifeReloaded 的说明文档，致以衷心的感谢！
+* 南瓜博士：微信公众号“南瓜博士”, 对本游戏提出的宝贵改进意见
