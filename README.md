@@ -27,6 +27,8 @@
   - [🐱🐹人生重来模拟器 LifeReloaded🐹🐱](#人生重来模拟器-lifereloaded)
   - [🚀世界终局模拟-走到时间的尽头🚀](#世界终局模拟-走到时间的尽头)
   - [🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](#-规则怪谈解密-𝐑𝑢𝑙𝑒-𝐺𝒉𝑜𝑠𝑡-𝑇𝑎𝑙𝑘-)
+  - [文明游戏](#文明游戏)
+  - [“仙术对决”大会](#仙术对决大会)
   - [🙏 致谢](#-致谢)
 
 
@@ -37,7 +39,8 @@
 |[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded) |![GitHub Repo stars](https://badgen.net/github/stars/hamutama/LifeReloaded)|[陈财猫🐱](https://okjk.co/RBfY7P)| 由 GPT4 的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。|[链接](https://chat.openai.com/share/25c02186-e518-4ac0-9072-1281b2f47d84)|
 |[🚀世界终局模拟-走到时间的尽头🚀](https://github.com/EmbraceAGI/AIGoodGames/blob/main/WorldSimulator/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[云中江树](https://okjk.co/fgdwvY)|穿越时间长河，尽览世界变迁，见证世界终局，演化，演化，不断演化，直到世界尽头。|[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d)|
 |[🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](https://github.com/EmbraceAGI/AIGoodGames/blob/main/RuleGhostTalk/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[Stell_A🤡](https://okjk.co/rTlQqf)|这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。|[链接](https://chat.openai.com/share/1501610f-fce2-4339-ac2b-ceeb579d502f)|
-
+|[文明](https://github.com/bingler1978/civilization) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/civilization)|Bill Han|文明游戏带你穿越历史长河，见证一个又一个人类命运的瞬间，由你来为人类的未来做出选择~|[链接](https://chat.openai.com/share/4b336988-75ca-4186-913a-d94843f5c000)|
+|[仙术对决:五行之战](https://github.com/bingler1978/the-five-elements) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/the-five-elements)|Bill Han|一个东方五行为基础的AI回合制对战游戏。在仙术大会中，你将作为昆仑隐修会这一代的入世弟子，代表师门参加百年一度的仙术大赛，挑战一个又一个对手，登临仙术之巅~|[链接](https://github.com/bingler1978/the-five-elements/blob/main/the-five-elements.txt)|
 
 ## 开源与合作
 🔗 本项目为  [EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
@@ -138,6 +141,62 @@
 
 <img src="./RuleGhostTalk/imgs/greetings.jpg" alt="Greeting User" width="500">
 
+## 文明游戏
+
+📂 项目
+  
+  项目主页：[文明游戏](https://github.com/bingler1978/civilization) 
+
+🌟 介绍
+
+一个模拟穿越人类历史瞬间的AI文字游戏
+
+你有机会像电影中的主人公一样，出现在人类历史上的许多重要时刻。 这些时刻包括：
+
+* 苏美尔文明
+* 古埃及文明
+* 古印度文明
+* 古希腊文明
+* 古罗马文明
+* 基督教的兴起
+* 伊斯兰教的兴起
+* 中世纪欧洲
+* 美国革命
+* 法国大革命
+* 二战时期
+
+你还可以去你任何想要去的时代，扮演你想扮演的历史人物，看你的决定是否能如你所愿，将人类带入完全不同的历史支流，历史在你的手中
+
+<img src="https://raw.githubusercontent.com/bingler1978/civilization/main/screencapture-chat-openai-1.png
+" alt="Greeting User" width="500">
+
+## “仙术对决”大会
+📂 项目
+  
+  项目主页：[“仙术对决”大会](https://github.com/bingler1978/the-five-elements)
+
+🌟 介绍
+
+在仙术大会中，你将作为昆仑隐修会这一代的入世弟子，代表师门参加百年一度的仙术大赛，挑战一个又一个对手，登临仙术之巅~
+
+* 版本: 0.2 beta
+* 作者: [Bill Han]
+
+您已经进入了游戏，你现在有3个天赋点数，可以在金木水火土五行当中，选择你心仪的领域来升级天赋，每一个天赋方向都有自己特点的仙术，不同方向的仙术有自己的侧重点。
+
+* 金：可以操控金属，磁场，兼具进攻和防御能力
+* 木：可以操控植物，可攻可守可以治疗
+* 水：可以操纵一切液体，具有治疗能力，也有可怕的控制能力
+* 火：最强大的破坏力，可以生成火焰，高温，火焰意味着毁灭
+* 土：可以操控土，沙，防御力最强，也能生成地震，有强大的破坏力
+* 
+你需要告诉我你的天赋选择，你可以在一个天赋方向上投入所有的天赋点数，也可以在多个天赋方向上投入天赋点数，天赋点数的多少决定了你可以获得多少这个方向上的仙术，投入的越多，仙术的数量越多，威力也越大。 可以以这种方式告诉我你的天赋，例如：金2，木1
+
+请记住，决定胜负的，永远不是表面上的实力
+
+和获得冠军相比，能够在战斗中成长，创造出属于自己的仙术更加值得期待。
+
+你可以选择系统提供的各种策略，也可以完全按照自己的想法来行动。你可以自由组合你具备的天赋能力，尝试创造不一样的仙术，但是仙术的能力会受到你投入的天赋点数的影响，以免过于逆天。
 
 ---
 
