@@ -22,7 +22,7 @@
 
 ### 📥 安装与运行
 
-* 继续世界演化：可以点击[链接](https://chat.openai.com/share/0a30fe02-f323-45e8-abc4-21360b3f626d) 继续宇宙演化
+* 继续世界演化：可以点击[链接](https://chat.openai.com/share/405e9534-d153-453c-9865-894cceb32f87) 继续宇宙演化
 * 演化你自己的世界，请打开GPT-4 的 [Advanced Data Analysis（原 Code Interpreter）功能](https://chat.openai.com/?model=gpt-4-code-interpreter)，并将[world_simulator.txt](world_simulator.txt)中的所有内容复制粘贴进对话框中运行。
 
 
@@ -40,7 +40,7 @@
 
 这世界唯一不变的，也许只有变化本身。演化，演化，不断演化，直到世界尽头。
 
-由于大语言模型的随机性，您的游戏体验可能会由于运气上下波动。
+由于大语言模型的随机性，您的游戏体验可能会由于运气波动。
 
 <img src="./imgs/greetings.png" alt="Greeting User" width="500">
 
