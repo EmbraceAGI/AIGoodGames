@@ -26,9 +26,10 @@
     - [🤝 合作](#-合作)
   - [🐱🐹人生重来模拟器 LifeReloaded🐹🐱](#人生重来模拟器-lifereloaded)
   - [🚀世界终局模拟-走到时间的尽头🚀](#世界终局模拟-走到时间的尽头)
-  - [🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](#-规则怪谈解密-𝐑𝑢𝑙𝑒-𝐺𝒉𝑜𝑠𝑡-𝑇𝑎𝑙𝑘-)
+  - [🤡👿 规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿 🤡](#-规则怪谈解密游戏-𝐑𝑢𝑙𝑒-𝐺𝒉𝑜𝑠𝑡-𝑇𝑎𝑙𝑘-)
   - [文明游戏](#文明游戏)
   - [“仙术对决”大会](#仙术对决大会)
+  - [逻辑俄罗斯方块](#逻辑俄罗斯方块)
   - [🙏 致谢](#-致谢)
 
 
@@ -41,6 +42,7 @@
 |[🤡 规则怪谈解密 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 🤡](https://github.com/EmbraceAGI/AIGoodGames/blob/main/RuleGhostTalk/README.md) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[Stell_A🤡](https://okjk.co/rTlQqf)|这场怪谈游戏，请小心踏入，因为在这里，美与恐怖交织，真相与幻象难以分辨。|[链接](https://chat.openai.com/share/1501610f-fce2-4339-ac2b-ceeb579d502f)|
 |[文明](https://github.com/bingler1978/civilization) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/civilization)|Bill Han|文明游戏带你穿越历史长河，见证一个又一个人类命运的瞬间，由你来为人类的未来做出选择~|[链接](https://chat.openai.com/share/4b336988-75ca-4186-913a-d94843f5c000)|
 |[仙术对决:五行之战](https://github.com/bingler1978/the-five-elements) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/the-five-elements)|Bill Han|一个东方五行为基础的AI回合制对战游戏。在仙术大会中，你将作为昆仑隐修会这一代的入世弟子，代表师门参加百年一度的仙术大赛，挑战一个又一个对手，登临仙术之巅~|[链接](https://github.com/bingler1978/the-five-elements/blob/main/the-five-elements.txt)|
+|[逻辑俄罗斯方块](https://github.com/bingler1978/Logical-tetris) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/the-five-elements)|Bill Han|充分发挥你的想象力和常识，找到不同的词语中的内在共性，用有限的回合内达到更高的得分，看谁可以成为逻辑俄罗斯方块大师|[链接](https://github.com/bingler1978/Logical-tetris/blob/main/Logical-tetris.txt)|
 
 ## 开源与合作
 🔗 本项目为  [EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
@@ -197,6 +199,20 @@
 和获得冠军相比，能够在战斗中成长，创造出属于自己的仙术更加值得期待。
 
 你可以选择系统提供的各种策略，也可以完全按照自己的想法来行动。你可以自由组合你具备的天赋能力，尝试创造不一样的仙术，但是仙术的能力会受到你投入的天赋点数的影响，以免过于逆天。
+
+## 逻辑俄罗斯方块
+
+📂 项目
+  
+  项目主页：[逻辑俄罗斯方块](https://github.com/bingler1978/Logical-tetris)
+
+🌟 介绍
+
+这个游戏的精髓是如何找到不同的单词之间的内在逻辑，尽可能保证在单词池没有爆满之前一次性删除尽可能多的单词，从而达到更高的得分。 希望你能够在这个游戏中找到更多灵感。
+
+推荐模型：GPT4.0
+
+郑重提示: 玩本游戏，一不留神，3小时50次的使用上限就到了
 
 ---
 
