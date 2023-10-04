@@ -52,7 +52,7 @@
 
 点击[Prompt链接](https://github.com/EmbraceAGI/AIGoodGames/edit/main/Dungeon-Adventurer/跑团游戏DM.txt)，将所有代码拷贝到 GPT-4 或者 Claude 对话框中，即可开始体验游戏
 
-或者点击[《地城冒险家》](https://chat.openai.com/share/5c7a28da-dc52-4e0c-b17d-33d504256b01)直接继续游戏
+或者点击[《地城冒险家》](https://chat.openai.com/share/3f28e805-9181-43cd-86c2-524db85455ad)直接继续游戏
 
 
 
