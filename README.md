@@ -105,7 +105,7 @@
 
 📂 项目
   
-  项目主页：[世界终局模拟](WorldSimulator/README.md)
+  项目主页：[世界终局模拟](WorldSimulator)
 
 🌟 介绍
 
@@ -220,7 +220,7 @@
 
 📂 项目
   
-  项目主页：[跑团游戏](Dungeon-Adventurer/README.md)
+  项目主页：[跑团游戏](Dungeon-Adventurer)
 
 🌟 介绍
 
