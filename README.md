@@ -30,6 +30,7 @@
   - [文明游戏](#文明游戏)
   - [“仙术对决”大会](#仙术对决大会)
   - [逻辑俄罗斯方块](#逻辑俄罗斯方块)
+  - [跑团游戏](#跑团游戏)
   - [🙏 致谢](#-致谢)
 
 
@@ -214,6 +215,20 @@
 推荐模型：GPT4.0
 
 郑重提示: 玩本游戏，一不留神，3小时50次的使用上限就到了
+
+## 跑团游戏
+
+📂 项目
+  
+  项目主页：[跑团游戏](Dungeon-Adventurer/README.md)
+
+🌟 介绍
+
+地下城是一个充满怪物和可探索要素的魔幻背景的游戏场景，共20层，玩家要向下一层层探索。
+
+<img src="./Dungeon-Adventurer/imgs/g1.png" alt="Greeting User" width="500">
+
+<img src="./Dungeon-Adventurer/imgs/g2.png" alt="Greeting User" width="500">
 
 ---
 
