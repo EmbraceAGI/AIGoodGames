@@ -45,6 +45,8 @@
 |[仙术对决:五行之战](https://github.com/bingler1978/the-five-elements) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/the-five-elements)|Bill Han|一个东方五行为基础的AI回合制对战游戏。在仙术大会中，你将作为昆仑隐修会这一代的入世弟子，代表师门参加百年一度的仙术大赛，挑战一个又一个对手，登临仙术之巅~|[链接](https://github.com/bingler1978/the-five-elements/blob/main/the-five-elements.txt)|
 |[逻辑俄罗斯方块](https://github.com/bingler1978/Logical-tetris) |![GitHub Repo stars](https://badgen.net/github/stars/bingler1978/the-five-elements)|Bill Han|充分发挥你的想象力和常识，找到不同的词语中的内在共性，用有限的回合内达到更高的得分，看谁可以成为逻辑俄罗斯方块大师|[链接](https://github.com/bingler1978/Logical-tetris/blob/main/Logical-tetris.txt)|
 |[跑团游戏DM](https://github.com/EmbraceAGI/AIGoodGames/blob/main/Dungeon-Adventurer) |![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AIGoodGames)|[Rockeymen](https://www.zhihu.com/people/rockeymen)|充满幻想色彩的游戏故事，地下城是一个充满怪物和可探索要素的魔幻背景的游戏场景，共20层，玩家要向下一层层探索。|[链接](https://chat.openai.com/share/5c7a28da-dc52-4e0c-b17d-33d504256b01)|
+|[海龟汤](https://github.com/White-stone36/Situation_puzzles_games)|![GitHub Repo stars](https://badgen.net/github/stars/White-stone36/Situation_puzzles_games)|白石|冲破惯性思维的束缚🔗，让思绪自由游移🎈，揭开生活里不同的角度🔍。 看似寻常但略带怪异的情境下🌀，可能潜藏着哪些有趣又意外的故事🎭？ 欢迎来到海龟汤 SituationPuzzlesGames🐢 ，让我们一起还原故事的真相🕵️‍♀️。|[链接](https://github.com/White-stone36/Situation_puzzles_games)|
+
 
 ## 开源与合作
 🔗 本项目为  [EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
@@ -229,6 +231,28 @@
 <img src="./Dungeon-Adventurer/imgs/g1.png" alt="Greeting User" width="500">
 
 <img src="./Dungeon-Adventurer/imgs/g2.png" alt="Greeting User" width="500">
+
+## 海龟汤
+
+📂 项目
+
+  项目主页：[海龟汤](https://github.com/White-stone36/Situation_puzzles_games)
+  
+🌟 介绍
+
+由GPT4 code interpreter驱动的情景猜谜游戏。一个人在家没法玩海龟汤？GPT-4来陪你一起开启这场思维之旅。
+
+模型随机生成海龟汤谜题，玩家可以发挥自己想象力进行各种可能性的提问。
+
+<img src="https://github.com/White-stone36/Situation_puzzles_games/blob/main/screenshot1.png" alt="1" width="500">
+
+总结线索
+
+<img src="https://github.com/White-stone36/Situation_puzzles_games/blob/main/screenshot2.png" alt="2" width="500">
+
+寻求提示
+
+<img src="https://github.com/White-stone36/Situation_puzzles_games/blob/main/screenshot3.png" alt="3" width="500">
 
 ---
 
