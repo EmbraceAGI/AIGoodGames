@@ -15,16 +15,16 @@
 **规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘** 是一款由 GPT-4 的 Advanced Data Analysis 功能驱动的解密游戏。
 - **版本**: 1.0 beta
 - **作者**: [Stell_A🤡](https://okjk.co/rTlQqf)
-- **参考**: [陈财猫](https://okjk.co/RBfY7P)
+![pic](https://github.com/hamutama/caimaopics/blob/main/Ghost_talk/ghost_talk_01.jpg?raw=true)
 
 ### 获取更新
 
-🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/EmbraceAGI/AIGoodGames/blob/main/RuleGhostTalk) 
+🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/Yoink666/Rule-Ghost-Talk) 
 
 ### 开源与社区
 
-🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
-
+🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持。
+🔗 本游戏为AIGG（AI Good Games）项目成员之一，要探索更多精彩游戏，请点击[AIGG Github主页](https://github.com/EmbraceAGI/AIGoodGames)
 🔗 本项目使用 [CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源。
 
 ### 注意事项
