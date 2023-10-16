@@ -4,6 +4,8 @@
 
 欢迎一起体验，参与，解锁更多有趣 🎯 AI 游戏玩法。 
 
+点击链接加入[AIGG项目社群](https://ubdnzdt3m9.feishu.cn/wiki/PqXxw0Sa7iRCUUksuaDcEWDin5g)
+
 ## 引子
 
 > 🌟 在星梦幻域的虚空里，AI 和你悄声交谈，
@@ -72,8 +74,8 @@
    * 您认为需要添加的其他信息
 
 3. 加入方式:
-   * 方式 1 —— 托管方式，如[🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md) 。将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏添加到项目。
-   * 方式 2 —— 收录方式，如[🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded)。自建项目，将内容通过微信（zephyr_ai）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏收录到项目。
+   * 方式 1 —— 托管方式，如[🚀世界终局模拟-走到时间的尽头🚀](WorldSimulator/README.md) 。请联系微信（xiaotu012chp）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏添加到项目。
+   * 方式 2 —— 收录方式，如[🤡👿规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿🤡](https://github.com/EmbraceAGI/Rule-Ghost-Talk)。自建项目，将内容通过微信（xiaotu012chp）或邮件 (contact@embraceagi.com) 发送给项目负责人，负责人将会将游戏收录到项目。
    * （注：内容可以飞书文档的方式提供，GitHub 老司机推荐通过 Pull Request 或者 issue 的方式直接向本项目提交`项目内容` 收录）
 
 4. 权益声明：
@@ -84,10 +86,10 @@
 
 💌 联系
 
-如有任何疑问或建议，请通过以下方式联系我：
+如有任何疑问或建议，请通过以下方式联系AIGG项目负责人：
 
-- 📧 Email: [云中江树](mailto:contact@embraceagi.com)
-- 📞 微信：zephyr_ai 
+- 📧 Email: [陈财猫](mailto:hamusuta@bupt.cn)
+- 📞 微信：xiaotu012chp
 
 🌟 感谢您的关注和参与，一起探索这个由 GPT 驱动的神奇游戏世界吧！ 🌟
 
